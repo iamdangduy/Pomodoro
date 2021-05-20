@@ -1,0 +1,14 @@
+body {
+    text-align: center;
+    background-color: lightblue;
+}
+
+.Second {
+    background-color: white;
+    border-style: solid;
+    font-size: 30px;
+    width: 70px;
+    text-align: center;
+    margin-left: 720px;
+    height: 35px;
+}
